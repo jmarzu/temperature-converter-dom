@@ -1,3 +1,23 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+}
+
 h1 {
   color: blue;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+#outputTemp {
+  border: 1px solid black;
+  height: 100px;
+  background-color: red;
+  margin-top: 20px;
+}
+
+.radioBtn {
+  margin-top: 10px;
 }
